@@ -52,7 +52,7 @@ I'm not gonna sugarcoat it, this is going to be very involved and will \[likely]
 
 ## "Why not just automate it?"
 There does exist the tools CIS-CAT Pro and CIS-CAT Lite that automatically scan a system to determine compliance with a given benchmark as well as CIS Build Kits that help automate the process of actually implementing hardened configurations via preconfigured Windows Group Policy Objects and the \*nix shell. And yes, these tools would undoubtedly speed up this process and save me countless hours. However, I have a couple problems with utilizing them:
-1. CIS-CAT doesn't actually help me much. Yes, it can check if the configurations that should be enabled by default are properly set, but this is a fresh Windows install. I already know that everything I need to manually setup isn't currently compliant
+1. CIS-CAT doesn't actually help me much. Yes, it can check if the configurations that should be enabled by default are properly set, but, aside from checking those automatic values, it's not gonna be much help because this is a fresh Windows install. I already know that everything I need to manually setup isn't currently compliant
 2. CIS Build Kits are not free, and I'm not a CIS SecureSuite member, so I'll need to perform the manual configurations anyways
 3.  Using automated tools kinda defeats the whole purpose of this project
 The point of doing this isn't to say that I've done it, it's to experience the process firsthand and to document it so that others can learn from it. Automating things is great and all, but if I want to actually learn all that I'm about to do, I've gotta be the one to do it.
