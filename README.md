@@ -14,6 +14,7 @@ This project will be broken up between two different, primary directories for th
 | ---- | ---- | ---- | ---- |
 | L1 | Commercial/Corporate/Enterprise | Provides a strong baseline for the security of an employee/end user | Minimal impact on performance and availability of services |
 | L2 | High Security/Highly Sensitive Data | Builds upon L1, expanding its implementation in a way that considers security first before UX | Sacrificed performance, compatibility, and remote access capabilities |
+
 I'll cover L1 in depth first before jumping to L2 <sub>Note: Everything mentioned in L1 applies to systems in L2 as well</sub>
 
 It's additionally worth noting that there are three subcategories for both L1 and L2:
