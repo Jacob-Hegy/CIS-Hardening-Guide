@@ -38,6 +38,7 @@ If you'd like to setup the VM for yourself and follow along, you can download th
 - [Windows Server 2019 ISO](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019)
 - [CIS Windows 10 Benchmark](https://www.cisecurity.org/benchmark/microsoft_windows_desktop)
 <hr />
+
 # FAQ
 ## "Wait, why Windows 10?"
 In a corporate environment, you can't throw a stick without hitting someone's computer running some version of Windows. Nowadays, Windows 7 has long been phased out for many employee's personal workstations, though it, Windows XP, and Windows 8 still find their fair share of usage for reason ranging from compatibility to straight up being forgotten and never updated. 
@@ -56,6 +57,7 @@ There does exist the tools CIS-CAT Pro and CIS-CAT Lite that automatically scan 
 3.  Using automated tools kinda defeats the whole purpose of this project
 The point of doing this isn't to say that I've done it, it's to experience the process firsthand and to document it so that others can learn from it. Automating things is great and all, but if I want to actually learn all that I'm about to do, I've gotta be the one to do it.
 </hr>
+
 # Conclusion
 I think that just about covers it! This project is going to take...awhile probably? I'm gonna try to do each section in reasonably sized chunks (I include the word "reasonable" specifically for you, section 18). Building on L2 will begin once L1 finishes, but expect L2 to be far less content overall as the vast majority will be covered in L1.
 
