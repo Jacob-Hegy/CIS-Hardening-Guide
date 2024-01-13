@@ -60,6 +60,6 @@ The point of doing this isn't to say that I've done it, it's to experience the p
 </hr>
 
 # Conclusion
-I think that just about covers it! This project is going to take...awhile probably? I'm gonna try to do each section in reasonably sized chunks (I include the word "reasonable" specifically for you, section 18). Building on L2 will begin once L1 finishes, but expect L2 to be far less content overall as the vast majority will be covered in L1.
+I think that just about covers it! This project is going to take...awhile probably? I'm gonna try to do each section in reasonably sized chunks (I include the word "reasonably" specifically for you, section 18). Building on L2 will begin once L1 finishes, but expect L2 to be far less content overall as the vast majority will be covered in L1.
 
 But yeah, that's it! I hope you enjoy reading through all my documentation! Maybe, just maybe, you'll find that some of my effort will help you in your own security endeavors ✨
