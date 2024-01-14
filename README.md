@@ -1,4 +1,4 @@
-# CIS Hardened ISO Images
+# CIS Hardening Guide + Documentation for Windows 10
 CIS provides thorough benchmarks for hardening devices depending on their operating system. Although the configuration of any given endpoint is dependent on its use case, the hardening guidelines provide a great foundation.
 
 I'll be delving into the process of following along with CIS's benchmark for a Windows 10 system. Throughout the hardening process I'll document my procedures as well as any pertinent details regarding the actual security decisions I make!
