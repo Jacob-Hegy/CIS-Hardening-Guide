@@ -41,7 +41,7 @@ If you'd like to setup the VM for yourself and follow along, you can download th
 
 # FAQ
 ## "Wait, why Windows 10?"
-In a corporate environment, you can't throw a stick without hitting someone's computer running some version of Windows. Nowadays, Windows 7 has long been phased out for many employee's personal workstations, though it, Windows XP, and Windows 8 still find their fair share of usage for reason ranging from compatibility to straight up being forgotten and never updated. 
+In a corporate environment, you can't throw a stick without hitting someone's computer running some version of Windows. Nowadays, Windows 7 has long been phased out of many employee's personal workstations, though it, Windows XP, and Windows 8 still find their fair share of usage for reasons ranging from compatibility to straight up being forgotten and never updated. 
 
 Regardless, with Windows 10 going on its ninth year of life and Windows 11 only in year three of its release, along with its adoption still not quite being widespread (source: I still run Windows 10), Windows 10 is undoubtedly the most likely end user operating system. Thus, the best candidate for this project is ol' reliable Windows 10.
 
