@@ -57,6 +57,7 @@ There does exist the tools CIS-CAT Pro and CIS-CAT Lite that automatically scan 
 3.  Using automated tools kinda defeats the whole purpose of this project
 
 The point of doing this isn't to say that I've done it, it's to experience the process firsthand and to document it so that others can learn from it. Automating things is great and all, but if I want to actually learn all that I'm about to do, I've gotta be the one to do it.
+
 </hr>
 
 # Conclusion
