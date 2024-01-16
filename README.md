@@ -1,7 +1,7 @@
 # CIS Hardening Guide + Documentation for Windows 10
 CIS provides thorough benchmarks for hardening devices depending on their operating system. Although the configuration of any given endpoint is dependent on its use case, the hardening guidelines provide a great foundation.
 
-I'll be delving into the process of following along with CIS's benchmark for a Windows 10 system. Throughout the hardening process I'll document my procedures as well as any pertinent details regarding the actual security decisions I make!
+I'll be delving into the process of following along with CIS's benchmark for a Windows 10 system. Throughout the hardening process I'll document my procedures as well as any pertinent details regarding the actual security decisions I make! At the end of the endpoint configuration process, I'll be uploading the .inf files I created so anyone that wants to import them into their system can do so (I DON'T CONDONE USING THESE FILES IN A COMMERCIAL SETTING! I'M DOING THIS FOR EDUCATIONAL PURPOSES, NOT TO PROVIDE CONFIGURATIONS THAT ARE READY FOR IMMEDIATE DEPLOYMENT!)
 ## Purpose:
 I believe in order to properly secure a device, one must know all the ways in which it can break. That's the very foundation on which red teaming in cybersecurity is built upon. Windows has many different intricacies that you might not make note of unless you seek them out, so, naturally, I'm going to seek them out.
 
