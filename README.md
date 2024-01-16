@@ -57,8 +57,7 @@ There does exist the tools CIS-CAT Pro and CIS-CAT Lite that automatically scan 
 3.  Using automated tools kinda defeats the whole purpose of this project
 
 The point of doing this isn't to say that I've done it, it's to experience the process firsthand and to document it so that others can learn from it. Automating things is great and all, but if I want to actually learn all that I'm about to do, I've gotta be the one to do it.
-
-</hr>
+<hr />
 
 # Conclusion
 I think that just about covers it! This project is going to take...awhile probably? I'm gonna try to do each section in reasonably sized chunks (I include the word "reasonably" specifically for you, section 18). Building on L2 will begin once L1 finishes, but expect L2 to be far less content overall as the vast majority will be covered in L1.
